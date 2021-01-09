@@ -5,11 +5,15 @@
 <title>Homepage</title>
 </head>
 
-p
+
 
 <body>
-<h1>
-</h1>
+<h1>Greetings</h1>
+
 <h2> 
+ </h2>
+<footer>
+<h3></h3>
+</footer>
 </body>
 </html>
